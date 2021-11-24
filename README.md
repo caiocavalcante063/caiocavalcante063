@@ -1,4 +1,4 @@
-<p align='left'> Olá, meu nome é Caio e sou Desenvolvedor Front-End React e Estudante de Desenvolvimento Web Full Stack na Trybe.
+<p align='left'> Olá, meu nome é Caio e sou Desenvolvedor Front-End React. Também estudante de Desenvolvimento Web Full Stack na Trybe.
 
 Você pode entrar em contato comigo através do e-mail: caiocavalcante063@gmail.com
 </p>
