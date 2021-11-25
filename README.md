@@ -16,14 +16,14 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
  Experiência = {
-  'HTML,
-  JavaScript,
-  CSS,
-  React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Redux com React, Context API e React Hooks
-  Redux,
-  Testes (Jest e React Testing Library - RTL),
-  Git e GitHub,
-  Metodologias Ágeis'
+  'HTML;
+  JavaScript;
+  CSS;
+  React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Redux com React, Context API e React Hooks;
+  Redux;
+  Testes (Jest e React Testing Library - RTL);
+  Git e GitHub;
+  Metodologias Ágeis;'
  }
 };
 ```
