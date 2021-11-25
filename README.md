@@ -1,6 +1,6 @@
 <p align='left'> Olá, meu nome é Caio e sou Desenvolvedor Front-End React. Também estudante de Desenvolvimento Web Full Stack na Trybe.
 
-Você pode entrar em contato comigo através do e-mail: caiocavalcante063@gmail.com
+Você pode entrar em contato comigo através do e-mail: caiocavalcante063@gmail.com.
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" align="right" alt="Computador iuriCode" >
 
