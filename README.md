@@ -1,4 +1,4 @@
-<p align='left'> Olá, meu nome é Caio e sou Desenvolvedor Front-End React. Também estudante de Desenvolvimento Web Full Stack na Trybe.
+<p align='left'> Olá, meu nome é Caio e sou estudante de Desenvolvimento Web Full Stack na Trybe.
 
 Você pode entrar em contato comigo através do e-mail: caiocavalcante063@gmail.com.
 </p>
@@ -10,7 +10,7 @@ import Desenvolvedor from './caiocavalcante063';
 
 class SobreMim extends Desenvolvedor {
   nome = 'Caio César Amorim';
-  area    = 'Desenvolvimento Front-End';
+  area    = 'Desenvolvimento Web';
   local = 'Brasília - DF';
 };
 
