@@ -19,7 +19,7 @@ class Skills extends Desenvolvedor {
   'HTML;
   JavaScript;
   CSS;
-  React, incluindo Componentes, Estado e Eventos, Componentes Controlados, Ciclo de Vida, Router, Redux com React, Context API e React Hooks;
+  React;
   Redux;
   Testes (Jest e React Testing Library - RTL);
   Git e GitHub;
