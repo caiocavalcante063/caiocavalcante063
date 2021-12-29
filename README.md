@@ -18,10 +18,11 @@ class Skills extends Desenvolvedor {
  Experiência = {
   'HTML;
   JavaScript;
-  CSS;
+  CSS e pré-processadores (SASS/SCSS);
   React;
   Redux;
   Testes (Jest e React Testing Library - RTL);
+  Docker;
   Git e GitHub;
   Metodologias Ágeis;'
  }
