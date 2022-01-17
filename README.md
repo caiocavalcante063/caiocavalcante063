@@ -18,7 +18,7 @@ class Skills extends Desenvolvedor {
  Habilidades = {
   'HTML;
   JavaScript;
-  CSS e pré-processadores (SASS/SCSS);
+  CSS e pré-compiladores (SASS/SCSS);
   React;
   Redux;
   Testes unitários e de integração (e2e): Jest, Cypress e React Testing Library - RTL;
