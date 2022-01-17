@@ -15,14 +15,17 @@ class SobreMim extends Desenvolvedor {
 };
 
 class Skills extends Desenvolvedor {
- Experiência = {
+ Skills = {
   'HTML;
   JavaScript;
   CSS e pré-processadores (SASS/SCSS);
   React;
   Redux;
-  Testes (Jest e React Testing Library - RTL);
+  Testes unitários e de integração (e2e): Jest, Cypress e React Testing Library - RTL;
   Docker;
+  GraphQL e Apollo;
+  SQL (MySQL);
+  Node.js e Express;
   Git e GitHub;
   Metodologias Ágeis;'
  }
