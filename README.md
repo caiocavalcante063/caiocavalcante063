@@ -15,7 +15,7 @@ class SobreMim extends Desenvolvedor {
 };
 
 class Skills extends Desenvolvedor {
- Skills = {
+ Habilidades = {
   'HTML;
   JavaScript;
   CSS e pré-processadores (SASS/SCSS);
