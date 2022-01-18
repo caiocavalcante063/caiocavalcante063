@@ -9,7 +9,7 @@ Habilidades:
  - HTML;
  - JavaScript;
  - CSS e pré-compiladores (SASS/SCSS);
- - React;
+ - React.js;
  - Redux;
  - Testes unitários e de integração (e2e): Jest, Cypress e React Testing Library - RTL;
  - Docker;
