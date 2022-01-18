@@ -17,4 +17,4 @@ Habilidades:
  - SQL (MySQL);
  - Node.js e Express;
  - Git e GitHub;
- - Metodologias Ágeis;
+ - Metodologias Ágeis (Scrum e Kanban);
