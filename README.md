@@ -16,5 +16,7 @@ Habilidades:
  - GraphQL e Apollo;
  - SQL (MySQL);
  - Node.js e Express;
+ - ORM (Sequelize)
+ - CI/CD
  - Git e GitHub;
  - Metodologias Ágeis (Scrum e Kanban);
