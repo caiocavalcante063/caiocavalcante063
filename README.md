@@ -7,7 +7,7 @@ Você pode entrar em contato comigo através do e-mail: caiocavalcante063@gmail.
 Habilidades:
 
  - HTML;
- - JavaScript;
+ - JavaScript (ES6+) e Typescript;
  - CSS e pré-compiladores (SASS/SCSS);
  - React.js;
  - Redux;
